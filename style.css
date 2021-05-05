@@ -1,0 +1,49 @@
+main{
+    margin: 40px 60px;
+font-family: poppins,sans-serif;
+}
+.jelly{
+
+    margin-bottom: 40px;
+border-bottom: 40px;
+}
+.profile-img{
+    width: 30px; 
+    height: 30px;
+    margin: right 10px;
+    vertical-align: middle;
+}
+h1{
+    font-size: 30px;
+    margin-bottom:0px;
+}
+.sub-title{
+    font-size: 25px;
+    margin-top: 0px;
+}
+.topic-link{
+color: red;
+font-size: 20px;
+ margin-bottom:10px;
+}
+.title-section address{
+    font-weight: 600px;
+    font-size: 11px;
+}
+.title-section address{
+    display: inline;
+    color: red;
+}
+.meet{
+    color: red;
+
+}
+
+.meet h2 {
+    border-bottom: 1px solid black;
+}
+.meet { 
+    border-bottom: solid 1px black;
+    
+      
+}
